@@ -80,8 +80,8 @@
 1. Specific draft dates and times will be announced by the CRC prior to the draft
 2. Each league's draft will take place on a different day
 3. Drafts will occur in order from the highest level league (MLTP) to the lowest (NLTP)
-4. The MLTP and mLTP drafts will continue until every team's roster is filled
-6. The NLTP draft will continue until all remaining players are assigned to a team
+4. The Majors and Minors drafts will continue until every team's roster is filled
+6. The Novice draft will continue until all remaining players are assigned to a team
 
 ### Section C - Auction Draft Format
 
